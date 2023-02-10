@@ -7,11 +7,11 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Welcome+to+my+pr
 </div>
 
 <div align="center">
-    <img width="40%"
+    <img width="50%"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Makeuseun&theme=dark&hide_border=true&layout=compact&langs_count=7"
         alt="Github Languages" />
     <br>
-    <img width="40%"
+    <img width="50%"
         src="https://github-readme-streak-stats.herokuapp.com?user=Makeuseun&theme=midnight-purple&hide_border=true&background=151515">
 </div>
 
