@@ -1,5 +1,8 @@
-[![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+<a href = "#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ba60ff&height=120&section=header" target="_blank"></a>
+
+<a href = "#">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ba60ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Makeuseun.;I'm+from+Brazil.;Welcome+to+my+profile!"></img>
+</a>
 
 <div align="center">
 
@@ -7,11 +10,11 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Welcome+to+my+pr
 </div>
 
 <div align="center">
-    <img width="50%"
+    <img width="40%"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Makeuseun&theme=dark&hide_border=true&layout=compact&langs_count=7"
         alt="Github Languages" />
     <br>
-    <img width="50%"
+    <img width="40%"
         src="https://github-readme-streak-stats.herokuapp.com?user=Makeuseun&theme=midnight-purple&hide_border=true&background=151515">
 </div>
 
@@ -24,8 +27,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Welcome+to+my+pr
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Js" height="35" width="35"
         src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
-    <img align="center" alt="Rafa-Js" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-plain.svg">
 </div>
 
 <br>
@@ -41,4 +42,4 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Welcome+to+my+pr
     </a>
 </div>
 
-</div>
+<a href = "#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ba60ff&height=120&section=footer" target="_blank"></a>
