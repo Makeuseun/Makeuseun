@@ -1,13 +1,8 @@
 <a href = "#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c40e3&height=120&section=header" target="_blank"></a>
 
 <a href = "#">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=9c40e3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Makeuseun.;I'm+from+Brazil.;Welcome+to+my+profile!"></img>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9c40e3&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!"></img>
 </a>
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/867134606619967509)](https://discord.com/users/867134606619967509)
-</div>
 
 <div align="center">    
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makeuseun&layout=compact&hide_border=true&title_color=9c40e3&text_color=ffffff&bg_color=0d1117" target="_blank">
