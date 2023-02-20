@@ -27,7 +27,7 @@
 <a href = "https://discord.com/users/867134606619967509"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 
 <div>
-    <img src="https://komarev.com/ghpvc/?username=Makeuseun&color=blueviolet" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Makeuseun&color=blueviolet&label=Visitors" alt="Profile Views" />
 </div>
 
 <div>
