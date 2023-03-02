@@ -23,9 +23,6 @@
 <a href = "#"><img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" target="_blank"></a>
 
-### Contact:
-<a href = "https://discord.com/users/456204491411423234"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
-
 <div>
     <img src="https://komarev.com/ghpvc/?username=Makeuseun&color=blueviolet&label=Visitors" alt="Profile Views" />
 </div>
