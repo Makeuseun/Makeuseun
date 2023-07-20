@@ -10,7 +10,9 @@
 </div>
 
 ### Skills:
+<a href = "#"><img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href = "#"><img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 
@@ -20,7 +22,6 @@
 <a href = "#"><img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" target="_blank"></a>
  
 ### Studying:
-<a href = "#"><img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=1572B6&labelColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=1572B6&labelColor=0D1117" target="_blank"></a>
 
