@@ -29,7 +29,7 @@
     <img src="https://komarev.com/ghpvc/?username=Makeuseun&color=blueviolet&label=Visitors" alt="Profile Views" />
 </div>
 
-<div>[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+<div>
   <a href = "https://wakatime.com/@69ea0e9f-52f1-48be-b000-6ecf0f210982"><img src="https://wakatime.com/badge/user/69ea0e9f-52f1-48be-b000-6ecf0f210982.svg"></a>
 </div>
 
