@@ -29,11 +29,8 @@
     <img src="https://komarev.com/ghpvc/?username=Makeuseun&color=blueviolet&label=Visitors" alt="Profile Views" />
 </div>
 
-<div>
-    <a href="https://wakatime.com/@69ea0e9f-52f1-48be-b000-6ecf0f210982">
-        <img src="https://wakatime.com/badge/user/69ea0e9f-52f1-48be-b000-6ecf0f210982.svg"
-            alt="Total time coded since Feb 10 2023" />
-    </a>
+<div>[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+  <a href = "https://wakatime.com/@69ea0e9f-52f1-48be-b000-6ecf0f210982"><img src="https://wakatime.com/badge/user/69ea0e9f-52f1-48be-b000-6ecf0f210982.svg"></a>
 </div>
 
 <a href = "#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c40e3&height=120&section=footer" target="_blank"></a>
